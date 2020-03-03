@@ -1,7 +1,7 @@
 var awsIotConfiguration = {
-    endpoint: 'wss://a2mvse6841elo7-ats.iot.us-east-1.amazonaws.com/mqtt', 
-    region: 'us-east-1',
-    poolId: 'us-east-1:de620ece-f07e-4041-803a-f0a2028129ea',
-    host: 'a2mvse6841elo7-ats.iot.us-east-1.amazonaws.com'
+    endpoint: 'wss://a39tiauiwvkdkc-ats.iot.eu-west-1.amazonaws.com/mqtt', 
+    region: 'eu-west-1',
+    poolId: 'eu-west-1:65e947b8-c610-4e8b-8256-e763eb47995a',
+    host: 'a39tiauiwvkdkc-ats.iot.eu-west-1.amazonaws.com'
  };
  module.exports = awsIotConfiguration;
